@@ -4,8 +4,19 @@
 
 .jumbotron{
     margin-top: 3%;
+    background-color: lightblue;
 }
 
 .title{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card{
+    margin: .5%;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.gifList{
+    margin-left: 2%
 }
